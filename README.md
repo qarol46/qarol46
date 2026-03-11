@@ -21,19 +21,19 @@ Here's a set of technologies and tools I frequently use:
 ### :gear: My Repos
 
 #### 1. [**Enhanced LiDAR-Inertial Localization**](https://github.com/qarol46/LIWO-SAM)
-*An advanced method for LiDAR-inertial localization by integrating a wheel odometry factor.*  
+An advanced method for LiDAR-inertial localization by integrating a wheel odometry factor. 
 By adding wheel odometry constraints to a LiDAR-inertial system, this project directly tackles a core challenge in robotics: achieving robust and accurate state estimation in real-world conditions.
 
 #### 2. [**UDP ROS2 Example**](https://github.com/qarol46/udp_ros2_example)
-*A software module for localization: an example of a ROS2 package for data transmission using the UDP protocol.*  
+A software module for localization: an example of a ROS2 package for data transmission using the UDP protocol.
 This project demonstrates my understanding of low-level network communication within the ROS2 ecosystem, a fundamental skill for distributed robotic systems.
 
 #### 3. [**Twinkling Robot**](https://github.com/qarol46/TwinklingRobot)
-*A wheeled robot project, with parts manufactured on a 3D printer, developed as part of a practical course.*  
+A wheeled robot project, with parts manufactured on a 3D printer, developed as part of a practical course.
 This was my first complete robotics project, where I learned the essentials of mechatronics and embedded software, from hardware assembly to basic control logic.
 
 #### 4. [**VR Project in Unreal Engine**](https://github.com/qarol46/VR_EngiGames)
-*A VR project developed using Unreal Engine.*  
+A VR project developed using Unreal Engine.
 This project allowed me to explore human-computer interaction and high-fidelity simulation environments, skills that are highly transferable to robot simulation and digital twins.
 
 ### :rocket: Key Projects & Experience
