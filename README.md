@@ -3,7 +3,7 @@ My name is **Kirill Osipov**. I'm a 4th-year student in **Mechatronics and Robot
 
 ### :computer: Technologies & Tools
 
-My main programming languages are C++ and Python. I have extensive experience with the ROS (Robot Operating System) ecosystem, simulation tools, and version control. I enjoy solving complex engineering problems and working in a team to bring robotic systems to life.
+My main programming languages are C++ and Python. I have extensive experience with the ROS (Robot Operating System) ecosystem, simulation tools. I enjoy solving complex engineering problems and working in a team to bring robotic systems to life.
 
 Here's a set of technologies and tools I frequently use:
 
